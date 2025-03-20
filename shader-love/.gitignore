@@ -1,0 +1,11 @@
+# include folders:
+# ignored folders:
+build
+shader
+
+# --------------------
+# include files:
+!.gitkeep
+!info.txt
+
+# ignored files:
